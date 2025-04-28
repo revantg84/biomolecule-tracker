@@ -1,4 +1,4 @@
-# 🧬 Biomolecule Tracker with Graph
+# 🧬 Biomolecule Tracker 
 
 Welcome to the **Biomolecule Tracker**!  
 This Python application allows users to search for food items and view their carbohydrate, protein, and fat contents visually using a bar graph.  
